@@ -12,3 +12,7 @@ After selecting all, you will see all the gym practice, one will choose the one 
 phase 3
 after each selection you will take the time and day to do the practice.
 
+# ScreenShoT
+<img src="Sreenshots/home.jpg" width="300">    <img src="Sreenshots/all gym.jpg" width="300"> <img src="Sreenshots/Acticty_situp.jpg" width="300">  <img src="Sreenshots/Acticty jump.jpg" width="300"> <img src="Sreenshots/Activity push_ups.jpg" width="300"> <img src="Sreenshots/selection.jpg" width="300"> <img src="Sreenshots/days.jpg" width="300">
+
+
