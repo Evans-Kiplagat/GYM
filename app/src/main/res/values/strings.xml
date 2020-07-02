@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GYM</string>
+    <array name="Days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>saturday</item>
+        <item>Sunday</item>
+    </array>
+</resources>
